@@ -107,7 +107,7 @@ Repeat customers, not one-time or loyal extremes, are the main source of profit.
 
 ---
 
-## 💡 Final Recommendations
+## Final Recommendations
 
 ### 1. Focus on high-performing categories
 - Prioritize investment in Computers, Home Appliances, and Cameras
@@ -122,18 +122,10 @@ Repeat customers, not one-time or loyal extremes, are the main source of profit.
 
 ---
 
-## 📌 Executive Summary
+## Executive Summary
 
 > Profitability is driven primarily by category strength and repeat customer behavior, while product-level performance remains highly fragmented. The business is not dependent on individual products or customers but instead relies on consistent repeat purchasing across key categories.
 
 ---
 
-## 📈 Potential Next Steps
-
-- Build dashboard (Power BI / Tableau) to visualize:
-  - Category profit distribution
-  - Customer segment contribution
-  - Product long-tail distribution
-- Add time-based analysis (seasonality trends)
-- Explore geographic profitability differences
 
