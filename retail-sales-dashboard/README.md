@@ -29,11 +29,11 @@ This project answers:
 
 ### 🟦 Page 1: Product & Category Analysis
 
-![Page 1](./images/page1.png)
+![Dashboard Page 1](./DashboardPage1.png)
 
 ### 🟩 Page 2: Customer Analysis
 
-![Page 2](./images/page2.png)
+![Dashboard Page 2](./DashboardPage2.png)
 
 ---
 
